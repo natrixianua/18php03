@@ -1,0 +1,78 @@
+#header{
+	height: 100px;
+	width: max;
+	border: 3px black solid;
+
+}
+.portlet{
+	border: 3px;
+	background: blue;
+	color: red;
+
+}
+.portlet11{
+border: 3px;
+background: blue;
+color: red;
+}
+#content{
+	width: 500px;
+	height: 500px;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+.portlet1{
+	border: 3px black solid;
+	margin-top: 3px;
+	margin-right: 3px;
+	float: left;
+	height: 400px;
+	width: 150px;
+}
+.item{
+border: 3px black solid;
+margin-top: 3px;
+margin-left: 3px;
+margin-right: 3px;
+height: 400px;
+width: 150px;
+float: left;
+}
+.portlet2{
+border: 3px black solid;
+margin-top: 3px;
+margin-left: 3px;
+float: left;
+float:top;
+margin-bottom: 3px;
+width: 150px;
+height: 200px;
+}
+.portlet3{
+	border: 3px black solid;
+	float:left;
+	float:bottom;
+margin-top: 3px;
+margin-left: 3px;
+width: 150px;
+height: 188px;
+}
+p{
+	text-align: center;
+}
+.portlet22{
+	color: red;
+	background: blue;
+
+}
+.portlet33{
+	
+	background: blue;
+	color: red;
+}
+.item1{
+	
+	background: blue;
+	color: red;
+
+}

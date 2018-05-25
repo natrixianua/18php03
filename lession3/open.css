@@ -1,0 +1,40 @@
+#content{
+	border: 5px solid black;
+	width: 1000px;
+	height: 800px;
+	margin-right: 300px;
+	margin-left: 300px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.show{
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+.top{
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-bottom: 30px;
+	padding-right: 10px;
+}		
+.mid{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 30px;
+}
+.bot{
+	padding-left: 10px;
+	padding-right:10px;
+	padding-bottom: 30px;
+}
+.final{
+	float :right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
+h1{
+	color: green;
+}
